@@ -37,7 +37,7 @@ This project involves building a miniature self-driving car using a Raspberry Pi
 ### Step 2: Install Required Libraries
 Open a terminal and enter the following commands to set up the environment:
 ```bash
-sudo apt update
-sudo apt install python3-opencv
-pip install tensorflow numpy
+python -m venv myenv
+source myenv/bin/activate
+pip install -r requirements.txt
 ```
