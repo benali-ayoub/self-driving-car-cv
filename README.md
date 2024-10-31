@@ -6,7 +6,6 @@
 - [Setup](#setup)
 - [Implementation](#implementation)
   - [1. Lane Detection](#1-lane-detection)
-  - [2. Obstacle Avoidance](#2-obstacle-avoidance)
   - [3. Steering and Control](#3-steering-and-control)
 - [Testing and Evaluation](#testing-and-evaluation)
 - [Future Improvements](#future-improvements)
