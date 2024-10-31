@@ -1,7 +1,7 @@
 from time import sleep
 import cv2
 import numpy as np
-import utils
+import motor_kd_modules.utils as utils
  
 curveList = []
 avgVal=10

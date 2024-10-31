@@ -2,7 +2,7 @@ import RPi.GPIO as GPIO
 import pygame
 from time import sleep
 import atexit
-from data_collection_module import DataCollector
+from data.data_collection_module import DataCollector
 
 
 class Motor:
